@@ -11,3 +11,8 @@ Sistema completo de gestión de pedidos de agua, desarrollado con Flutter, Expre
 - 🐘 **PostgreSQL** – Base de datos relacional
 - 🐳 **Docker + Docker Compose + Swarm** – Contenedores y despliegue
 - 🐇 **RabbitMQ** – Mensajería en tiempo real (básica)
+
+## 📫 Contacto
+Desarrollado por Luis Alberto Gonzáles Usca
+📧 luchin5luchin@gmail.com
+📱 +51 964269494

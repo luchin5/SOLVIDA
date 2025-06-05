@@ -34,3 +34,9 @@ Una aplicación móvil de delivery desarrollada en **Flutter**, como parte de un
 flutter pub get
 flutter run
 
+🧑‍💻 Autor
+Luis Alberto Gonzáles Usca
+📧 luchin5luchin@gmail.com
+📱 +51 964 269 494
+🔗 GitHub - @luchin5
+

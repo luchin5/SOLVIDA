@@ -1,16 +1,33 @@
-# app2025v2
+# SOLVIDA Delivery App
 
-A new Flutter project.
+Una aplicación móvil de delivery desarrollada en **Flutter**, como parte de un ecosistema de microservicios.
 
-## Getting Started
+## 📱 Características principales
 
-This project is a starting point for a Flutter application.
+- Registro e inicio de sesión de usuarios (incluyendo con Google)
+- Geolocalización y gestión de direcciones de entrega
+- Visualización de productos y promociones por zonas
+- Carrito de compras inteligente (productos y promociones combinados)
+- Seguimiento de pedidos en tiempo real
+- Notificaciones push
+- Gestión de repartidores y almacenes
 
-A few resources to get you started if this is your first Flutter project:
+## 🧱 Arquitectura
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Aplicación desarrollada en **Flutter**
+- Backend basado en microservicios (Node.js + Docker + RabbitMQ + Redis)
+- Comunicación mediante **API Gateway** y mensajería
+- Autenticación con Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Requisitos
+
+- Flutter SDK (3.x recomendado)
+- Android Studio o VS Code
+- Firebase CLI (para pruebas con emulador si es necesario)
+
+## 🚀 Cómo correr la app
+
+```bash
+flutter pub get
+flutter run
+

@@ -1,4 +1,7 @@
+
 # SOLVIDA Delivery App
+![original-4d02a26d053c9acd38a38e45d50ec572](https://github.com/user-attachments/assets/0164566c-ab44-4359-9fd1-752b57cc3e0a)
+
 
 Una aplicación móvil de delivery desarrollada en **Flutter**, como parte de un ecosistema de microservicios.
 
